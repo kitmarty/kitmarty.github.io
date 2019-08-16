@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://kitmarty.github.io/</loc>
+  <lastmod>2019-07-08T18:59:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kitmarty.github.io/cv/</loc>
+  <lastmod>2019-07-08T18:59:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kitmarty.github.io/blog/</loc>
+  <lastmod>2019-07-08T18:46:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kitmarty.github.io/cv/CV_Martyanov_EN.pdf</loc>
+  <lastmod>2019-07-08T18:59:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kitmarty.github.io/cv/CV_Martyanov_RU.pdf</loc>
+  <lastmod>2019-07-08T18:59:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kitmarty.github.io/blog/aris/reports/2019/07/06/aris-database-performance-test.html</loc>
+  <lastmod>2019-07-08T18:46:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
